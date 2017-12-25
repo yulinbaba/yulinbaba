@@ -1,0 +1,54 @@
+/*
+* @Author: straystarry.com
+* @Date:   2017-12-21 21:10:21
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-12-21 23:23:55
+*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #eee;
+}
+.header {
+    padding: 20px 80px;
+}
+.header a {
+    font-family: '黑体';
+    color: #aaa;
+    text-decoration: none;
+    padding: 15px;
+}
+.header a:hover {
+    color: #000;
+}
+.bold {
+    font-size: 1.4em;
+}
+.curtain {
+    background: url('images/bg01.jpg');
+    padding: 80px 180px;
+}
+.word {
+    padding: 5% 20%;
+    word-break: break-all;
+    line-height: 1.5em;
+}
+.word-l a {
+    font-family: '黑体';
+    color: #000;
+    text-decoration: none;
+}
+.word-r a {
+    text-decoration: none;
+}
+.word a:hover {
+    font-weight: bold;
+}
+.footer {
+    padding: 35px 0;
+}
+.footer a {
+    text-decoration: none;
+}
